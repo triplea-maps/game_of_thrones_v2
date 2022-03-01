@@ -1,0 +1,4 @@
+map_name: game_of_thrones_v2
+games:
+- {game_name: Game_of_Thrones_v2, file_name: Game_of_Thrones_v2.xml}
+version: 0
